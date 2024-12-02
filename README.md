@@ -1,4 +1,4 @@
-# K8s External Secrets and Tilt Integration - Developer Experience
+# Kubernetes External Secrets and Tilt Integration - Developer Experience
 
 ## Inner Development Loop
 
